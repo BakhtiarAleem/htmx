@@ -4,13 +4,13 @@ A simple and elegant Chat CRUD (Create, Read, Update, Delete) application built 
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 👉 [View Live Demo](https://htmx-cdq0pb9x0-bakhtiaraleems-projects.vercel.app/)
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ Create, update, and delete chat messages dynamically without full page reloads  
 - ⚡️ HTMX-powered for lightweight and reactive frontend behavior  
@@ -21,6 +21,10 @@ A simple and elegant Chat CRUD (Create, Read, Update, Delete) application built 
 ---
 
 
-## 🧪 How It Works
+## How It Works
 
 You can only use the project by simply putting it through a web development environment like Xampp, Wamp or Laragon. Otherwise it will give Cors error when calling htmx function ajax.
+
+## Detail Information
+
+For more details you can visit Documentation.docx File
