@@ -19,3 +19,8 @@ A simple and elegant Chat CRUD (Create, Read, Update, Delete) application built 
 - 💡 Easy to integrate and extend into any project
 
 ---
+
+
+## 🧪 How It Works
+
+You can only use the project by simply putting it through a web development environment like Xampp, Wamp or Laragon. Otherwise it will give Cors error when calling htmx function ajax.
